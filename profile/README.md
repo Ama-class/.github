@@ -13,23 +13,11 @@ We plan, design, build and operate these ourselves. What we learn after launch g
 
 | Product | What it is | Platforms | Status |
 |---|---|---|---|
-| [**HagePasha**](https://hagepasha.com/en/) | A hair photo diary for your hairline and crown | iOS, Android | Live |
 | [**Kirokune**](https://kirokune.com/en/) | A private log for workplace incidents | iOS | Live |
 | [**SHIBA3**](https://shiba3.com) | A lawn care log and community | iOS, Android, Web | Live (Japanese) |
+| [**Lantern Hill**](https://lanternhill.app) | A companion for everyday parenting | Mobile | Pre-registration |
 | [**Karuttona!**](https://karuttona.com) | On-device visit transcription and SOAP drafts for clinicians | iOS, macOS | In development |
 | [**Daily 1%**](https://get1pct.com) | One website improvement, proposed every morning | Web | Early access (Japanese) |
-
-### HagePasha — hair photo diary
-
-Take photos of your hairline and crown from the same position, angle and zoom each time, then compare them by date. Camera guides and an overlay of your previous photo help you line up the shot, and reminders keep the habit going.
-
-- It is not a diagnostic tool. There is no AI analysis and no medical assessment.
-- Photos stay on your device. No account is required.
-- Available in English, Japanese, French, Simplified Chinese, Traditional Chinese and Korean.
-
-[Website](https://hagepasha.com/en/) · [App Store](https://apps.apple.com/app/id6795848736) · [Google Play](https://play.google.com/store/apps/details?id=com.amaclass.hagepasha)
-
-`Expo` `React Native`
 
 ### Kirokune — workplace incident log
 
@@ -50,6 +38,16 @@ Record mowing, watering and fertilizing in one tap, keep photos of how the lawn 
 [Website](https://shiba3.com) · [App Store](https://apps.apple.com/jp/app/id6777942807) · [Google Play](https://play.google.com/store/apps/details?id=com.amaclass.shiba)
 
 `Expo` `React Native` `Supabase` `Next.js` `microCMS`
+
+### Lantern Hill — a companion for everyday parenting
+
+For everyday life with children 12 and under. Start with what is on your mind today, find a practical idea to try, choose a little play together, and keep a few words to return to later. Notes on strengths, difficult moments and what you have tried can be gathered into a plain-text summary for a conversation with preschool, school or a clinician.
+
+- Parenting articles on the site can be read without the app.
+- The site is available in English, Japanese, Spanish, German, French, Brazilian Portuguese, Korean and Traditional Chinese.
+- The app is being prepared for public release. Pre-registration is open.
+
+[Website](https://lanternhill.app)
 
 ### Karuttona! (カルっとな！) — visit notes for clinicians
 
