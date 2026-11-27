@@ -17,7 +17,7 @@ We plan, design, build and operate these ourselves. What we learn after launch g
 | [**SHIBA3**](https://shiba3.com) | A lawn care log and community | iOS, Android, Web | Live (Japanese) |
 | [**Lantern Hill**](https://lanternhill.app) | A companion for everyday parenting | Mobile | Pre-registration |
 | [**Karuttona!**](https://karuttona.com) | On-device visit transcription and SOAP drafts for clinicians | iOS, macOS | In development |
-| [**Daily 1%**](https://get1pct.com) | One website improvement, proposed every morning | Web | Early access (Japanese) |
+| [**Daily 1%**](https://get1pct.com) | One website improvement, proposed every morning | Web | Live (worldwide) |
 
 ### Kirokune — workplace incident log
 
@@ -65,7 +65,9 @@ Transcribes the conversation during a visit, separates the speakers and assemble
 
 Reads your search data and your pages, then sends up to three improvement proposals on mornings when there is something worth changing. Each proposal shows the text before and after, ready to copy. On days without a good proposal, nothing is sent.
 
-[Website](https://get1pct.com) · [For clinics](https://www.ama-class.com/clinic/1pct)
+Sites in any country can apply, and the site is available in English and other languages.
+
+[Website](https://get1pct.com/en) · [For clinics](https://www.ama-class.com/clinic/1pct)
 
 ---
 
